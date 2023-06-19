@@ -4,5 +4,5 @@ Portifólio criado para um trabalho de escola onde começamos a mexer com HTML e
 
 Segue imagem de como ele está em sem desenvolvimento. :)
 
-![Alt text](image.png)
-![Alt text](image1.png)
+![Alt text](./assets/images/image.png)
+![Alt text](./assets/images/image1.png)
