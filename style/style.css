@@ -180,8 +180,21 @@ body
 
 .align-down
 {
-
+    width: 80%;
+    text-align: right;
+    height: 10px;
+    margin-left: 20px;
 }
+
+.align-down i
+{
+    margin: 5px;
+}
+
+/* .align-left
+{
+    width: 100%;
+} */
 
 .info p a
 {
